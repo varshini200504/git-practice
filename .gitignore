@@ -1,6 +1,4 @@
-db.sql
-passwords.txt
-*.log
-node_modules/
-!important.log
 about.html
+db.sql        
+log/    
+node_modules/  
